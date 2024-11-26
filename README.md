@@ -33,7 +33,7 @@ Welcome to the **Number Guessing Game**! This is a fun and simple game built usi
    ```bash
    git clone https://github.com/yourusername/number-guessing-game.git
 
-2. Open the index.html file in your browser to start playing!
+2. Open the `index.html` file in your browser to start playing!
 
 ---
 
