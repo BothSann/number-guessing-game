@@ -1,5 +1,7 @@
 # 🎮 Number Guessing Game
 
+## 📝 Overview
+
 Welcome to the **Number Guessing Game**! This is a fun and simple game built using **HTML**, **CSS**, and **JavaScript**. The goal is to guess the secret number, which is randomly chosen between **1 and 20**.
 
 ---
@@ -16,12 +18,12 @@ Welcome to the **Number Guessing Game**! This is a fun and simple game built usi
 
 ---
 
-## 🌟 Features
+## ✨ Features
 
-- **Random Secret Number**: The game picks a secret number between **1 and 20**.
-- **Feedback**: The game provides helpful feedback if your guess is too high, too low, or correct.
-- **Score Tracking**: Keep track of your score and compare it to the **high score**.
-- **Reset Functionality**: Easily restart the game by clicking the **"Again!"** button.
+- **🎲 Random Secret Number**: The game picks a secret number between **1 and 20**. 🔢
+- **💬 Feedback**: The game provides helpful feedback if your guess is too high, too low, or correct. ✅❌
+- **🏆 Score Tracking**: Keep track of your score and compare it to the **high score**. 📊
+- **🔄 Reset Functionality**: Easily restart the game by clicking the **"Again!"** button. 🔁
 
 ---
 
@@ -35,11 +37,12 @@ Welcome to the **Number Guessing Game**! This is a fun and simple game built usi
 
 ---
 
-## 📌 Technologies Used
+## 🛠️ Technologies Used
 
-HTML5: Structuring the game interface.
-CSS3: Styling the game elements.
-JavaScript: Game logic and interactivity.
+- ⚙️ **HTML5**: Structuring the game interface.
+- 🎨 **CSS3**: Styling the game elements.
+- 🧩 **JavaScript (ES6)**: Game logic and interactivity.
+
 
 ---
 
