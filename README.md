@@ -3,7 +3,8 @@
 ## 📝 Overview
 
 Welcome to the **Number Guessing Game**! This is a fun and simple game built using **HTML**, **CSS**, and **JavaScript**. The goal is to guess the secret number, which is randomly chosen between **1 and 20**.
-![alt text]("C:\Users\thann\OneDrive\Pictures\guess-number.PNG")
+![Game Screenshot](screenshot.png)
+
 
 ---
 
