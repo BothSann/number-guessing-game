@@ -31,7 +31,7 @@ Welcome to the **Number Guessing Game**! This is a fun and simple game built usi
 
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
+   git clone https://github.com/BothSann/number-guessing-game.git
 2. Open the `index.html` file in your browser to start playing!
 
 ---
